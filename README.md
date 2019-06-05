@@ -37,81 +37,81 @@
 - read [superstore.sql](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/superstore.sql) file to setup the database
 
 ### SCREENSHOTS
-
+***
 * WELCOME PAGE
 
 ![Welcome Page](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/1.%20Welcome%20Page.png)
 
-
+***
 * ADMIN LOGIN
 
 ![Admin Login](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/2.%20Administrator%20Login.png)
 
-
+***
 * STORE LOGIN
 
 ![STORE LOGIN](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/3.%20Store%20Login.png)
 
-
+***
 * DISTRIBUTOR LOGIN
 
 ![DISTRIBUTOR LOGIN](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/4.%20Distributor%20Login.png)
 
-
+***
 * ADMIN DASHBOARD
 
 ![ADMIN DASHBOARD](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/5.%20Admin%20Dashboard.png)
 
-
+***
 * ADMIN SALES REPORT
 
 ![ADMIN SALES REPORT](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/6.%20Sales%20Report.png)
 
-
+***
 * DISTRIBUTOR DETAILS
 
 ![DISTRIBUTOR DETAILS](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/7.%20Dstbr%20details.png)
 
-
+***
 * STORE DETAILS
 
 ![STORE DETAILS](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/8.%20Str%20Details.png)
 
-
+***
 * STORE DASHBOARD
 ![STORE DASHBOARD](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/9.%20Str%20Dashboard.png)
 
-
+***
 * STORE PROFILE
 
 ![STORE PROFILE](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/10.%20Str%20Profile.png)
 
-
+***
 * STORE SALES REPORT
 
 ![STORE SALES REPORT](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/11.%20Str%20Sales%20Report.png)
 
-
+***
 * STORE ORDERS
 
 ![STORE ORDERS](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/12.%20Str%20Orders.png)
 
-
+***
 * STORE STOCK
 
 ![STORE STOCK](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/13.%20Stock.png)
 
-
+***
 * DISTRIBUTOR DASHBOARD
 
 ![DISTRIBUTOR DASHBOARD](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/14.%20Dstbr%20Dashboard.png)
 
-
+***
 * DISTRIBUTOR DETAILS
 
 ![DISTRIBUTOR DETAILS](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/15.%20Dstbr%20details.png)
 
-
+***
 * DISTRIBUTOR ORDERS
 
 ![DISTRIBUTOR ORDERS](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/screenshots/16.%20Dstbr%20Orders.png)
