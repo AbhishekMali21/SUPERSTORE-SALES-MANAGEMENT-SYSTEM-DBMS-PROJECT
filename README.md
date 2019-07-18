@@ -8,8 +8,8 @@
 ### AUTHORS
 
 - [@abhishekmali21](https://github.com/abhishekmali21) - **ABHISHEK MALI**
-- **MANISH HUNDERKAR**
-- **NISCHINTH KULKARNI**
+- [@manishhundekar](https://github.com/manishhundekar) - **MANISH HUNDERKAR**
+- [@Nishchith-tech](https://github.com/Nishchith-tech) - **NISCHINTH KULKARNI**
 
 ### OBJECTIVES
 1. Maintains the details of Sales by Store/Region/State 
