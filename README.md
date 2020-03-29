@@ -1,5 +1,23 @@
 ## SUPERSTORE SALES MANAGEMENT SYSTEM - DBMS PROJECT
 
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=social)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=social)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=social)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/network/members)
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?logoColor=important&style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=flat-square)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?style=flat-square)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT.svg)](http://hits.dwyl.com/AbhishekMali21/SUPERSTORE-SALES-MANAGEMENT-SYSTEM-DBMS-PROJECT)
+
+
 ### ABOUT THE PROJECT
 
 * Super store is an Indian retail store that operates as a chain of hypermarkets.
@@ -7,9 +25,9 @@
 
 ### AUTHORS
 
-- [@abhishekmali21](https://github.com/abhishekmali21) - **ABHISHEK MALI**
-- [@manishhundekar](https://github.com/manishhundekar) - **MANISH HUNDERKAR**
-- [@Nishchith-tech](https://github.com/Nishchith-tech) - **NISCHINTH KULKARNI**
+- [@AbhishekMali21](https://github.com/AbhishekMali21) - **ABHISHEK MALI**
+- [@ManishHundekar](https://github.com/manishhundekar) - **MANISH HUNDERKAR**
+- [@NishchithKulkarni](https://github.com/NishchithKulkarni) - **NISCHINTH KULKARNI**
 
 ### OBJECTIVES
 1. Maintains the details of Sales by Store/Region/State 
